@@ -1,4 +1,4 @@
-# vME™ ("virtual me")
+# vME™ | A Virtual Me Bot
 
 ## We Have Liftoff!
 ### Three reasons I’m launching my vME™ and you should too.
