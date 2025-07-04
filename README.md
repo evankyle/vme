@@ -1,2 +1,1 @@
-# vme
-vME™ ("virtual me")
+# vME™ ("virtual me")
