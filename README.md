@@ -2,6 +2,7 @@
 
 ### The World Wasn't Ready. It Is Now.
 `By Evan Kyle, 2025-07-04`
+
 I had a vision: a "virtual me" (vME™) for everyone. An AI bot that would run on your own data, under your control, to help you navigate your life. I launched, but the response was crickets. The idea was too early, and the technology wasn't there yet.
 
 So, I put vME on hold and went back to building. My career spans decades in tech, covering web, desktop, mobile, and server software, apps, games, social platforms, AdTech, MarTech, e-commerce, and business automation. I am also an AWS Certified Solutions Architect – Professional.
